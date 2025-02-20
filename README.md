@@ -1,4 +1,4 @@
 # Secure-Data-Hiding-in-Image-Using-Steganography
 
-#requirements
+requirements
 pip install opencv-python numpy pycryptodome pillow
